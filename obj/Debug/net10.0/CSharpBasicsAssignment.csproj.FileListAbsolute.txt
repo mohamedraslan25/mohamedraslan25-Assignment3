@@ -1,0 +1,15 @@
+D:\Simulation Academy\Assignments\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.exe
+D:\Simulation Academy\Assignments\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.deps.json
+D:\Simulation Academy\Assignments\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.runtimeconfig.json
+D:\Simulation Academy\Assignments\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.dll
+D:\Simulation Academy\Assignments\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.pdb
+D:\Simulation Academy\Assignments\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Simulation Academy\Assignments\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.AssemblyInfoInputs.cache
+D:\Simulation Academy\Assignments\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.AssemblyInfo.cs
+D:\Simulation Academy\Assignments\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.csproj.CoreCompileInputs.cache
+D:\Simulation Academy\Assignments\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.dll
+D:\Simulation Academy\Assignments\CSharpBasicsAssignment\obj\Debug\net10.0\refint\CSharpBasicsAssignment.dll
+D:\Simulation Academy\Assignments\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.pdb
+D:\Simulation Academy\Assignments\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.genruntimeconfig.cache
+D:\Simulation Academy\Assignments\CSharpBasicsAssignment\obj\Debug\net10.0\ref\CSharpBasicsAssignment.dll
+D:\Simulation Academy\Assignments\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBa.D9D76A20.Up2Date
